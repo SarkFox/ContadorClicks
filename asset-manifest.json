@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SarkFox/ContadorClicks/static/css/main.772a76fe.css",
+    "main.js": "/SarkFox/ContadorClicks/static/js/main.7cc71174.js",
+    "index.html": "/SarkFox/ContadorClicks/index.html",
+    "main.772a76fe.css.map": "/SarkFox/ContadorClicks/static/css/main.772a76fe.css.map",
+    "main.7cc71174.js.map": "/SarkFox/ContadorClicks/static/js/main.7cc71174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772a76fe.css",
+    "static/js/main.7cc71174.js"
+  ]
+}
