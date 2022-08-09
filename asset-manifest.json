@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SarkFox/ContadorClicks/static/css/main.772a76fe.css",
-    "main.js": "/SarkFox/ContadorClicks/static/js/main.7cc71174.js",
-    "index.html": "/SarkFox/ContadorClicks/index.html",
-    "main.772a76fe.css.map": "/SarkFox/ContadorClicks/static/css/main.772a76fe.css.map",
-    "main.7cc71174.js.map": "/SarkFox/ContadorClicks/static/js/main.7cc71174.js.map"
+    "main.css": "/sarkfox/ContadorClicks/static/css/main.772a76fe.css",
+    "main.js": "/sarkfox/ContadorClicks/static/js/main.7cc71174.js",
+    "index.html": "/sarkfox/ContadorClicks/index.html",
+    "main.772a76fe.css.map": "/sarkfox/ContadorClicks/static/css/main.772a76fe.css.map",
+    "main.7cc71174.js.map": "/sarkfox/ContadorClicks/static/js/main.7cc71174.js.map"
   },
   "entrypoints": [
     "static/css/main.772a76fe.css",
